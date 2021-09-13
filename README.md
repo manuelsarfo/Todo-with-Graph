@@ -1,4 +1,9 @@
 # Todo-with-Graph
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/manuel-ampadu-sarfo-308768123/) 
+![](https://img.shields.io/pypi/pyversions/pandas)
+![](https://img.shields.io/pypi/wheel/pandas?label=safe)
+
+
 
 To use this app, you need to download the below libraries with pip:
  - Streamlit
